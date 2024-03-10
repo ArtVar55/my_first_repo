@@ -7,5 +7,5 @@ dabavir tex lokalno
 dabavili text noviy vetke newbranch
 
 
-dabavil lakalniy kanflikt
+dabavil lakalniy  problem
 
