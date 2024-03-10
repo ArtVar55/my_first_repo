@@ -3,3 +3,7 @@
 dabavili text cherez web browser
 
 dabavir tex lokalno
+
+dabavili text noviy vetke newbranch
+
+
